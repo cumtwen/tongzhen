@@ -1,0 +1,14 @@
+
+    div,span,input{
+     margin:0px;
+     padding:0px;
+    }
+    #zj{
+    	width:80%;
+    	height:600px;
+    	background-image:url(images/001.jpg);   
+    }
+	a{
+	color:blue;
+	text-decoration:none;
+	}
